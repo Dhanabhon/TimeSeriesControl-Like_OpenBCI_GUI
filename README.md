@@ -1,4 +1,4 @@
-# TimeSeriesControl-Like_OpenBCI_GUI
+# Time-Series Control like OpenBCI GUI
 Real-time Time-series chart for .NET framework chart-like OpenBCI GUI
 
 # Demo
